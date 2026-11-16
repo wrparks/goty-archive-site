@@ -67,7 +67,7 @@ textarea{min-height:220px;resize:vertical}
 .toolbar .search{flex:1;min-width:200px}
 .score-note{background:#eaf2f6;border-left:3px solid #65a9c5;padding:11px 14px;color:#506570;font:12px Arial,Helvetica,sans-serif;line-height:1.7}
 .badge{display:inline-block;padding:3px 6px;background:#e5eff4;border:1px solid #b5c9d2;font:10px Arial,Helvetica,sans-serif;text-transform:uppercase;letter-spacing:.3px}
-.gamehero{padding:7px 0 15px;border-bottom:1px solid #b5c9d2}
+.gamehero{padding:7px 0 0;border-bottom:0}
 .game-profile-head{display:flex;align-items:flex-start;gap:17px;margin-top:11px}
 .game-profile-art,.game-profile-placeholder{width:116px;height:162px;object-fit:contain;flex:0 0 116px;background:#e8f0f4;border:1px solid #b5c9d2}
 .game-profile-placeholder{height:162px}
