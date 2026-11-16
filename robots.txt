@@ -1,1 +1,4 @@
-User-agent: *\nAllow: /\n
+User-agent: *
+Allow: /
+
+Sitemap: https://wrparks.github.io/goty-archive-site/sitemap.xml
